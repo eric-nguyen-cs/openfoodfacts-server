@@ -35,7 +35,7 @@ synonyms:fr:conserve, appertisé, appertisée, appertisés, appertisées
 stopwords:fr:aux, au, de, le, du, la, a, et, avec, base
 stopwords:ca:als, a les, de, el, del, de la, la, té, i, amb, base
 stopwords:nl:bevat, en
-stopwords:nl_be:be:bevat, en
+stopwords:nl_be:be:be:bevat, en
 stopwords:de:und, mit, von
 
 ### Properties for categories entries
@@ -40559,7 +40559,7 @@ ciqual_food_name:fr:Maïs entier, cru
 <en:Corn
 en:Fresh corn, Fresh maize
 fr:Maïs frais
-season_in_country_fr:en: 7‚8,9
+season_in_country_fr:en: 7‚8‚9
 
 <en:Cereal grains
 en:Crabgrass, Finger-grass
@@ -61253,7 +61253,7 @@ ru:Свежие продукты
 th:อาหารสด
 zh:新鲜食物
 
-en:Fried foods
+en:Fried foods, Fried food
 de:frittierte Lebensmittel, frittierte Speisen, frittiertes Essen
 es:Fritos, Alimentos fritos, Productos fritos, Frituras
 fi:Paistetut ruoat
@@ -63416,7 +63416,7 @@ ciqual_food_name:fr:Cassis, cru
 en:Fresh blackcurrants
 fr:Cassis frais
 lt:Švieži juodieji serbentai
-season_in_country_fr:en: 6‚7,8
+season_in_country_fr:en: 6‚7‚8
 
 <en:Fruits
 en:Kumquats, kumquat
@@ -63545,7 +63545,7 @@ es:Manzanas frescas
 fr:Pommes fraîches
 it:Mele fresche
 lt:Švieži obuoliai
-season_in_country_fr:en: 1‚2,3‚4,8‚9,10‚11‚12
+season_in_country_fr:en: 1‚2‚3‚4‚8‚9‚10‚11‚12
 
 <en:Apples
 en:Sweet apples
@@ -63747,7 +63747,7 @@ en:Fresh apricots
 de:Frische Aprikosen
 fr:Abricots frais
 lt:Švieži abrikosai
-season_in_country_fr:en: 6‚7,8
+season_in_country_fr:en: 6‚7‚8
 
 <en:Apricots
 en:Pitted apricot
@@ -63875,7 +63875,7 @@ en:Fresh blueberries
 de:Frische Blaubeeren, Frische Heidelbeeren
 fr:Myrtilles fraîches
 lt:Šviežios mėlynės
-season_in_country_fr:en: 7‚8,9
+season_in_country_fr:en: 7‚8‚9
 
 <en:Berries
 <en:Elderberry products
@@ -63965,7 +63965,7 @@ es:Frambuesas frescas
 fr:Framboises fraîches
 lt:Šviežios avietės
 nl:Verse frambozen
-season_in_country_fr:en: 6‚7,8
+season_in_country_fr:en: 6‚7‚8
 
 <en:Berries
 en:Redcurrants, Red currants
@@ -63986,7 +63986,7 @@ ciqual_food_name:fr:Groseille, crue
 en:Fresh redcurrants
 fr:Groseilles fraîches
 lt:Švieži raudonieji serbentai
-season_in_country_fr:en: 6‚7,8
+season_in_country_fr:en: 6‚7‚8
 
 <en:Berries
 en:Gooseberries
@@ -64041,7 +64041,7 @@ de:Frische Erdbeeren
 es:Fresas frescas
 fr:Fraises fraîches
 lt:Šviežios braškės
-season_in_country_fr:en: 5‚6,7
+season_in_country_fr:en: 5‚6‚7
 
 <en:Strawberries
 en:Garden strawberries
@@ -64204,7 +64204,7 @@ es:Limones frescos
 fr:Citrons frais
 lt:Šviežios citrinos
 nl:Verse citroen
-season_in_country_fr:en: 1‚2,11‚12
+season_in_country_fr:en: 1‚2‚11‚12
 
 <en:Lemons
 en:Unwaxed lemons
@@ -64355,7 +64355,7 @@ en:Fresh mandarin oranges
 fr:Mandarines fraîches
 lt:Švieži mandarinai
 nl:Verse mandarijnen
-season_in_country_fr:en: 1‚2,11‚12
+season_in_country_fr:en: 1‚2‚11‚12
 
 <en:Mandarin oranges
 en:Mandarin pulp
@@ -64382,7 +64382,7 @@ en:Fresh clementines
 de:Frische Clementinen
 fr:Clémentines fraîches
 lt:Švieži klementinai
-season_in_country_fr:en: 1‚2,11‚12
+season_in_country_fr:en: 1‚2‚11‚12
 
 <en:French fruits
 <en:Clementines
@@ -64439,7 +64439,7 @@ de:Frische Orangen
 fr:Oranges fraîches
 lt:Švieži apelsinai
 tr:Taze portakal
-season_in_country_fr:en: 1‚2,3‚12
+season_in_country_fr:en: 1‚2‚3‚12
 
 <en:Oranges
 en:Orange pulp
@@ -64453,7 +64453,7 @@ ciqual_food_name:fr:Orange, pulpe, crue
 <en:Fresh fruits
 en:Fresh pomelos
 fr:Pamplemousses frais
-season_in_country_fr:en: 2‚3,4‚5,6
+season_in_country_fr:en: 2‚3‚4‚5‚6
 
 <en:Pomelos
 en:Pummelo pulp
@@ -64508,7 +64508,7 @@ ciqual_food_name:fr:Figue, crue
 en:Fresh figs
 fr:Figues fraîches
 lt:Šviežios figos
-season_in_country_fr:en: 7‚8,9‚10
+season_in_country_fr:en: 7‚8‚9‚10
 
 <en:Figs
 <en:French fruits
@@ -64684,7 +64684,7 @@ de:Frische Kiwis
 es:Kiwi fresco
 fr:Kiwis frais
 lt:Švieži kiviai
-season_in_country_fr:en: 1‚2,3‚11‚12
+season_in_country_fr:en: 1‚2‚3‚11‚12
 
 <en:Kiwifruits
 en:Kiwi fruit pulp and seeds
@@ -64735,7 +64735,7 @@ en:Fresh peaches
 es:Melocotones frescos
 fr:Pêches fraîches
 lt:Švieži persikai
-season_in_country_fr:en: 6‚7,8‚9
+season_in_country_fr:en: 6‚7‚8‚9
 
 <en:Peaches
 en:Platerines
@@ -64841,7 +64841,7 @@ fr:Melons déshydratés, Melons séchés
 <en:Fresh fruits
 en:Fresh muskmelons
 fr:Melons frais
-season_in_country_fr:en: 6‚7,8‚9
+season_in_country_fr:en: 6‚7‚8‚9
 
 <en:Muskmelons
 <en:French fruits
@@ -65068,7 +65068,7 @@ de:Frische Birnen
 es:Peras frescas
 fr:Poires fraîches
 lt:Šviežios kriaušės
-season_in_country_fr:en: 1‚2,3‚8,9‚10‚11‚12
+season_in_country_fr:en: 1‚2‚3‚8‚9‚10‚11‚12
 
 <en:Apples
 en:Apples Chantecler
@@ -65136,7 +65136,7 @@ en:Fresh plums
 de:Frische Pflaumen
 fr:Prunes fraîches
 lt:Šviežios slyvos
-season_in_country_fr:en: 7‚8,9
+season_in_country_fr:en: 7‚8‚9
 
 <en:Fresh plums
 fr:Mirabelles fraîches
@@ -65153,7 +65153,7 @@ season_in_country_fr:en: 9
 
 <en:Fresh plums
 fr:Quetsches fraîches
-season_in_country_fr:en: 8‚9,10
+season_in_country_fr:en: 8‚9‚10
 
 <en:Plums
 en:Frozen plums
@@ -86709,7 +86709,7 @@ ciqual_food_name:fr:Champignon, rosé des prés, cru
 
 <en:Champignon mushrooms
 fr:Champignon de Paris frais
-season_in_country_fr:en: 1‚2,3‚4,5‚6,7‚8,9‚10‚11‚12
+season_in_country_fr:en: 1‚2‚3‚4‚5‚6‚7‚8‚9‚10‚11‚12
 
 <en:Champignon mushrooms
 en:Quartered champignon mushrooms, Quartered common mushrooms, Quartered white mushrooms, Quartered white button mushrooms, Quartered button mushrooms
@@ -99132,7 +99132,7 @@ ciqual_food_name:fr:Topinambour, cuit
 <en:Fresh vegetables
 <en:Jerusalem artichoke
 fr:Topinambour frais
-season_in_country_fr:en: 1‚2,11‚12
+season_in_country_fr:en: 1‚2‚11‚12
 
 <en:Vegetables
 en:Parsnip
@@ -99146,7 +99146,7 @@ ciqual_food_name:fr:Panais, cru
 <en:Fresh vegetables
 <en:Parsnip
 fr:Panais frais
-season_in_country_fr:en: 1‚2,3‚10‚11‚12
+season_in_country_fr:en: 1‚2‚3‚10‚11‚12
 
 <en:Cooked vegetables
 <en:Parsnip
@@ -99210,7 +99210,7 @@ wikidata:en:Q941639
 
 <en:Salsifis
 fr:Salsifis frais
-season_in_country_fr:en: 1‚2,11‚12
+season_in_country_fr:en: 1‚2‚11‚12
 
 <en:Salsifis
 <en:Cooked vegetables
@@ -99307,7 +99307,7 @@ ciqual_food_name:fr:Artichaut, cuit
 <en:Fresh vegetables
 en:Fresh artichokes, Artichoke globe
 fr:Artichauts frais
-season_in_country_fr:en: 5‚6,7‚8,9
+season_in_country_fr:en: 5‚6‚7‚8‚9
 
 <en:Artichokes
 <en:Frozen vegetables
@@ -99517,7 +99517,7 @@ nl:Wilde asperges
 en:Fresh Asparagus
 es:Espárragos frescos
 fr:Asperges fraîches
-season_in_country_fr:en: 4‚5,6
+season_in_country_fr:en: 4‚5‚6
 
 <en:Asparagus
 de:Marchfeldspargel
@@ -99605,7 +99605,7 @@ en:Fresh aubergines
 bg:Пресни патладжани
 de:Frische Auberginen
 fr:Aubergines fraîches
-season_in_country_fr:en: 6‚7,8‚9
+season_in_country_fr:en: 6‚7‚8‚9
 
 <en:Aubergines
 en:Eggplant cooked
@@ -99655,7 +99655,7 @@ intake24_category_code:en:BEET
 en:Fresh beet
 fr:Betteraves fraîches
 lt:švieži burokėliai
-season_in_country_fr:en: 1‚2,3‚10‚11‚12
+season_in_country_fr:en: 1‚2‚3‚10‚11‚12
 
 <en:Vegetables
 en:Uncooked beetroots
@@ -99821,7 +99821,7 @@ en:Fresh Brussels sprouts
 de:Frischer Rosenkohl
 es:Coles de Bruselas frescas
 fr:Choux de Bruxelles frais
-season_in_country_fr:en: 1‚2,3‚10‚11‚12
+season_in_country_fr:en: 1‚2‚3‚10‚11‚12
 
 <en:Leaf vegetables
 en:Cabbages
@@ -99973,7 +99973,7 @@ en:Fresh cabbages
 bg:Прясно зеле
 fr:Chou frais
 nl:Verse kolen
-season_in_country_fr:en: 1‚2,3‚10‚11‚12
+season_in_country_fr:en: 1‚2‚3‚10‚11‚12
 
 <en:Leaf vegetables
 en:Collard greens, Collard
@@ -100072,7 +100072,7 @@ fi:Tuoreet porkkanat
 fr:Carottes fraîches
 it:Carote fresche
 nl:Verse wortel
-season_in_country_fr:en: 1‚2,3‚9,10‚11‚12
+season_in_country_fr:en: 1‚2‚3‚9‚10‚11‚12
 
 <en:Carrots
 en:Dehydrated carrots
@@ -100102,7 +100102,7 @@ ciqual_food_name:fr:Chou-fleur, cru
 en:Fresh cauliflowers
 es:Coliflor fresca
 fr:Choux-fleurs frais, Chou-fleur frais
-season_in_country_fr:en: 1‚2,3‚9,10‚11‚12
+season_in_country_fr:en: 1‚2‚3‚9‚10‚11‚12
 
 <en:Culinary plants
 en:Glasswort, Fresh glasswort, Fresh salicornia, salicornia
@@ -100138,7 +100138,7 @@ pl:Seler, Selery
 
 <en:Celery
 fr:Céleri frais
-season_in_country_fr:en: 1‚2,3‚10‚11‚12
+season_in_country_fr:en: 1‚2‚3‚10‚11‚12
 
 <en:Celery
 en:Fenland Celery
@@ -100271,7 +100271,7 @@ wikipedia:en:https://en.wikipedia.org/wiki/Chard
 en:Fresh chards
 es:Acelgas frescas
 fr:Blettes fraîches
-season_in_country_fr:en: 6‚7,8‚9,10‚11
+season_in_country_fr:en: 6‚7‚8‚9‚10‚11
 
 <en:Chards
 <en:Cooked vegetables
@@ -100317,7 +100317,7 @@ de:Frische Gurken
 es:Pepinos frescos
 fr:Concombre frais
 pl:Ogórki świeże
-season_in_country_fr:en: 5‚6,7‚8,9‚10
+season_in_country_fr:en: 5‚6‚7‚8‚9‚10
 
 <en:Vegetables
 en:Endives, Endive, Escaroles
@@ -100392,7 +100392,7 @@ fr:Endives en conserve
 <en:Fresh vegetables
 en:Fresh belgian endives
 fr:Endives fraîches
-season_in_country_fr:en: 1‚2,3‚4,10
+season_in_country_fr:en: 1‚2‚3‚4‚10
 
 <en:Leaf vegetables
 en:Curly endives
@@ -100521,7 +100521,7 @@ wikipedia:en:https://en.wikipedia.org/wiki/Fennel
 
 <en:fennel
 fr:Fenouil frais
-season_in_country_fr:en: 4‚6,7‚8,9‚10‚11
+season_in_country_fr:en: 4‚6‚7‚8‚9‚10‚11
 
 <en:fennel
 en:Boiled fennel, Fennel cooked in water
@@ -100612,7 +100612,7 @@ agribalyse_food_code:en:11000
 ciqual_food_code:en:11000
 ciqual_food_name:en:Garlic, fresh
 ciqual_food_name:fr:Ail, cru
-season_in_country_fr:en: 7‚8,9‚10‚11‚12
+season_in_country_fr:en: 7‚8‚9‚10‚11‚12
 
 <en:Garlic
 en:Allium neapolitanum
@@ -100778,7 +100778,7 @@ ciqual_food_name:fr:Poireau, cuit
 en:Fresh leeks
 es:Puerro fresco
 fr:Poireaux frais
-season_in_country_fr:en: 1‚2,3‚4,9‚10‚11‚12
+season_in_country_fr:en: 1‚2‚3‚4‚9‚10‚11‚12
 
 <en:Leeks
 fr:Poireaux de Créances
@@ -100921,7 +100921,7 @@ fr:Sucrines
 
 <en:Lettuces
 fr:Laitue fraîche
-season_in_country_fr:en: 5‚6,7‚8,9
+season_in_country_fr:en: 5‚6‚7‚8‚9
 
 <en:Lettuces
 en:Romaine lettuce, cos, romaine lettuce
@@ -101033,7 +101033,7 @@ es:Cebollas frescas
 fr:Oignons frais
 he:בצלים טריים
 nl:Verse uien
-season_in_country_fr:en: 1‚2,3‚4,9‚10‚11‚12
+season_in_country_fr:en: 1‚2‚3‚4‚9‚10‚11‚12
 
 <en:Onions
 en:Yellow onions, yellow onion
@@ -101149,7 +101149,7 @@ en:Fresh sweet peppers
 bg:Пресни чушки
 fr:Poivrons frais
 nl:Verse paprikas
-season_in_country_fr:en: 6‚7,8‚9
+season_in_country_fr:en: 6‚7‚8‚9
 
 <en:Cooked vegetables
 <en:Sweet peppers
@@ -101606,7 +101606,7 @@ ciqual_food_name:fr:Potiron, cru
 
 <en:Pumpkins
 fr:Potiron frais
-season_in_country_fr:en: 1‚9,10‚11‚12
+season_in_country_fr:en: 1‚9‚10‚11‚12
 
 <en:Pumpkins
 en:Pulp of melonnette jaspée from Vendée, Squash of melonnette jaspée from Vendée
@@ -101645,7 +101645,7 @@ ciqual_food_name:fr:Potiron, appertisé, égoutté
 <en:Fresh vegetables
 en:Fresh pumpkins
 fr:Citrouilles fraîches, citrouille fraîche
-season_in_country_fr:en: 1‚9,10‚11‚12
+season_in_country_fr:en: 1‚9‚10‚11‚12
 
 <en:Pumpkins
 en:Butternut squashes, Butternut squash, Butternut pumpkins, butternut squash, butternut pulp
@@ -101796,7 +101796,7 @@ wikipedia:en:https://en.wikipedia.org/wiki/Radish
 <en:Fresh vegetables
 en:Fresh radishes
 fr:Radis frais
-season_in_country_fr:en: 3‚4,5‚6
+season_in_country_fr:en: 3‚4‚5‚6
 
 
 <en:Radishes
@@ -101925,7 +101925,7 @@ agribalyse_proxy_food_name:fr:Rhubarbe, tige, crue
 description:en:Rhubarb is a cultivated plant in the genus Rheum in the family Polygonaceae. Rhubarb is stewed with sugar or used in pies and desserts, but it can also be put into savoury dishes or pickled. Rhubarb can be dehydrated and infused with fruit juice.
 # ingredient/fr:rhubarbe has 191 products in 4 languages @2019-05-08
 # category/rhubarbs has 4 products 22019-05-22
-season_in_country_fr:en: 4‚5,6
+season_in_country_fr:en: 4‚5‚6
 wikidata:en:Q20767168
 # plant:wikidata:en:Q7535
 wikipedia:en:https://en.wikipedia.org/wiki/Rhubarb
@@ -102096,7 +102096,7 @@ fi:Tuoreet pinaatit
 fr:Épinards frais
 nl:Verse spinazies
 pl:Szpinak świeży
-season_in_country_fr:en: 1‚2,3‚4,5‚9,10‚11‚12
+season_in_country_fr:en: 1‚2‚3‚4‚5‚9‚10‚11‚12
 
 <en:Spinachs
 en:Spinach young leaves
@@ -102267,7 +102267,7 @@ ciqual_food_name:fr:Navet, pelé, cru
 <en:Fresh vegetables
 en:Fresh turnips
 fr:Navets frais
-season_in_country_fr:en: 1‚2,3‚4,5‚10‚11‚12
+season_in_country_fr:en: 1‚2‚3‚4‚5‚10‚11‚12
 
 <en:Vegetables
 <en:Tomatoes and their products
@@ -102317,7 +102317,7 @@ fr:Tomates fraîches
 it:Pomodori freschi
 nl:Verse tomaten, Verse tomaat
 pl:Pomidory świeże, Świeże pomidory
-season_in_country_fr:en: 6‚7,8‚9
+season_in_country_fr:en: 6‚7‚8‚9
 
 <en:Tomatoes
 fr:Tomate olivette, Tomates olivettes
@@ -102406,7 +102406,7 @@ de:Frische Zucchini
 es:Calabacín fresco
 fr:Courgettes fraîches
 it:Zucchine fresche
-season_in_country_fr:en: 5‚6,7‚8,9‚10
+season_in_country_fr:en: 5‚6‚7‚8‚9‚10
 
 <en:Zucchini
 en:Courgette pulp and peel, Zucchini pulp and peel
@@ -102582,7 +102582,7 @@ wikipedia:en:https://en.wikipedia.org/wiki/Valerianella_locusta
 
 <en:corn salad
 fr:Mâche fraîche
-season_in_country_fr:en: 1‚2,10‚11‚12
+season_in_country_fr:en: 1‚2‚10‚11‚12
 
 <en:corn salad
 fr:Mâche nantaise
@@ -102759,7 +102759,7 @@ wikidata:en:Q150452
 
 <en:Watercress
 fr:Cresson frais
-season_in_country_fr:en: 1‚2,3‚4,5‚9,10‚11‚12
+season_in_country_fr:en: 1‚2‚3‚4‚5‚9‚10‚11‚12
 
 <en:Vegetables based foods
 <en:Fresh sprouts
@@ -103039,7 +103039,7 @@ en:Fresh green beans
 de:Frische grüne Bohnen
 es:Judías verdes frescas
 fr:Haricots verts frais
-season_in_country_fr:en: 6‚7,8‚9,10
+season_in_country_fr:en: 6‚7‚8‚9‚10
 
 <en:Fresh green beans
 en:Fresh broad green beans
@@ -103082,7 +103082,7 @@ agribalyse_food_code:en:20072
 ciqual_food_code:en:20072
 ciqual_food_name:en:Garden peas, raw
 ciqual_food_name:fr:Petits pois, crus
-season_in_country_fr:en: 5‚6,7
+season_in_country_fr:en: 5‚6‚7
 
 <en:Green peas
 <en:Cooked vegetables
