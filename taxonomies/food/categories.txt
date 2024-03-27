@@ -43482,6 +43482,7 @@ ciqual_food_name:fr:Fromage à pate pressée cuite type emmental ou emmenthal, a
 <en:Cheeses from Switzerland
 fr:Emmentals suisses
 de:Schweizer Emmentaler
+en:Swiss emmentals
 nl:Zwiterse kazen
 origins:en: en:Switzerland
 
@@ -61253,7 +61254,7 @@ ru:Свежие продукты
 th:อาหารสด
 zh:新鲜食物
 
-en:Fried foods, Fried food
+en:Fried foods
 de:frittierte Lebensmittel, frittierte Speisen, frittiertes Essen
 es:Fritos, Alimentos fritos, Productos fritos, Frituras
 fi:Paistetut ruoat
